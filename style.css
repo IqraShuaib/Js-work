@@ -1,0 +1,21 @@
+button{
+font-family: Arial, Helvetica, sans-serif;
+background:rgb(148, 24, 179);
+color: white;
+border:rgb(148, 24, 179);
+padding: 2px 10px;
+text-align: center;
+cursor: pointer;
+border-radius: 2px;
+}
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2{
+    color:rgb(10, 33, 241);
+}
+p{
+    color:black;
+}
